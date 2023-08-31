@@ -5,5 +5,5 @@
 ![kernel-4](https://github.com/mokdongwaterpunch/ppt/assets/138671669/a054db27-0d15-43d6-a370-53dbf236d29b)
 ![kernel-5](https://github.com/mokdongwaterpunch/ppt/assets/138671669/534fafe9-4db6-4aa2-9566-90be09aade36)
 ![kernel-6](https://github.com/mokdongwaterpunch/ppt/assets/138671669/153288ee-f151-4d8c-b13e-d731cc6e26ba)
-![kernel-7](https://github.com/mokdongwaterpunch/ppt/assets/138671669/324544e5-251c-4482-b651-ffc5ab8f0ed6)
+![kernel-7](https://github.com/mokdongwaterpunch/ppt/assets/138671669/f05c517a-bf39-4e4e-b714-af6603cd24c7)
 ![kernel-8](https://github.com/mokdongwaterpunch/ppt/assets/138671669/7bc59d1c-24d5-4dc7-a302-ae8fb7845372)
