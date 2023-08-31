@@ -1,8 +1,9 @@
 # ppt
 
-![그림1](https://github.com/mokdongwaterpunch/ppt/assets/138671669/a6394575-8f6d-4292-a3be-990390110653)
-![그림2](https://github.com/mokdongwaterpunch/ppt/assets/138671669/6524c109-316a-47ea-b05f-8bd8827e7e48)
-![그림3](https://github.com/mokdongwaterpunch/ppt/assets/138671669/1764d0a0-3fdc-4174-8e3e-60d6eff75477)
-![그림1](https://github.com/mokdongwaterpunch/ppt/assets/138671669/2c265021-9e0f-4ae6-888c-7372cc8d7bcd)
-![그림2](https://github.com/mokdongwaterpunch/ppt/assets/138671669/33aa6b7e-4a88-4563-ba8f-bee2480bb04b)
-![그림3](https://github.com/mokdongwaterpunch/ppt/assets/138671669/00d9cf41-e5ae-444c-9175-6a9f8b7402c2)
+![kernel-2](https://github.com/mokdongwaterpunch/ppt/assets/138671669/3006f625-10a6-4f6d-b2b8-2882f2c38300)
+![kernel-3](https://github.com/mokdongwaterpunch/ppt/assets/138671669/ae6477ae-383c-445a-96ff-c0ac2f760f28)
+![kernel-4](https://github.com/mokdongwaterpunch/ppt/assets/138671669/a054db27-0d15-43d6-a370-53dbf236d29b)
+![kernel-5](https://github.com/mokdongwaterpunch/ppt/assets/138671669/534fafe9-4db6-4aa2-9566-90be09aade36)
+![kernel-6](https://github.com/mokdongwaterpunch/ppt/assets/138671669/153288ee-f151-4d8c-b13e-d731cc6e26ba)
+![kernel-7](https://github.com/mokdongwaterpunch/ppt/assets/138671669/324544e5-251c-4482-b651-ffc5ab8f0ed6)
+![kernel-8](https://github.com/mokdongwaterpunch/ppt/assets/138671669/7bc59d1c-24d5-4dc7-a302-ae8fb7845372)
